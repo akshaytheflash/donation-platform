@@ -152,7 +152,7 @@ const Home = () => {
         <div className="container">
           <div className="text-center mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">
-              Why Choose <span className="gradient-text">GiveChain</span>?
+              Why Choose <span className="gradient-text">Donify</span>?
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Experience the future of charitable giving with our blockchain-powered platform
