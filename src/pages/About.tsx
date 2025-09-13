@@ -94,7 +94,7 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-3xl lg:text-4xl font-bold mb-6">
-                Why We Built <span className="gradient-text">GiveChain</span>
+                Why We Built <span className="gradient-text">Donify</span>
               </h2>
               <div className="space-y-4 text-lg text-muted-foreground">
                 <p>

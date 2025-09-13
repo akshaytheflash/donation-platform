@@ -167,7 +167,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       localStorage.setItem('sessionToken', token);
       localStorage.setItem('currentUserId', newUser.id);
       
-      toast.success(`Welcome to GiveChain, ${name}!`);
+      toast.success(`Welcome to Donify, ${name}!`);
     } catch (error: any) {
       console.error('Sign up error:', error);
       toast.error(error.message || 'An error occurred during sign up. Please try again.');

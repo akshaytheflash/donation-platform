@@ -33,8 +33,8 @@ const Contact = () => {
       icon: Mail,
       title: 'Email Us',
       description: 'Get in touch via email',
-      contact: 'hello@givechain.org',
-      action: 'mailto:hello@givechain.org'
+      contact: 'hello@Donify.org',
+      action: 'mailto:hello@Donify.org'
     },
     {
       icon: MessageCircle,
