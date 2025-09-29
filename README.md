@@ -11,4 +11,3 @@ extreme, complete transparency.
 
 A lot of features including an admin dashboard; monitoring of funds received by the fundraisers is yet to be added.
 
-NOTE: Completely vibe coded
